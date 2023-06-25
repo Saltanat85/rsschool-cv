@@ -1,1 +1,1 @@
-# rsschool-cv feat: update cv.md file
+docs: add link to project
